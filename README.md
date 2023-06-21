@@ -49,13 +49,13 @@ I worked at 313x, a cybersecurity company specializing in the investigation and 
 
 The 313X | TPCRM tool was an invaluable asset in assessing vendor cybersecurity risk performance. Unfortunately, it is no longer available for public viewing. However, during its development, various techniques and features were incorporated to enhance its functionality and security:
 
-Nested Router in Vue: Utilized the nested router feature in Vue.js to create a seamless and organized user experience within the application.
-Captcha Integration: Implemented captcha to enhance security and prevent automated attacks or unauthorized access.
-ApexCharts for Data Visualization: Leveraged ApexCharts to create visually appealing and informative graphs, allowing users to easily comprehend complex data.
-Input Sanitization: Implemented input sanitization techniques, including business email validations, ensuring that only valid and safe data was accepted.
-Strong Password Policy: Enforced a strong password policy, requiring a minimum of 8 characters, including at least one special character, one number, and a combination of uppercase and lowercase letters.
-Security Measures: Employed various security measures to safeguard user data and protect against potential threats.
-Small Animations: Incorporated subtle animations throughout the tool to enhance the overall user experience and engagement.
+- Nested Router in Vue: Utilized the nested router feature in Vue.js to create a seamless and organized user experience within the application.
+- Captcha Integration: Implemented captcha to enhance security and prevent automated attacks or unauthorized access.
+- ApexCharts for Data Visualization: Leveraged ApexCharts to create visually appealing and informative graphs, allowing users to easily comprehend complex data.
+- Input Sanitization: Implemented input sanitization techniques, including business email validations, ensuring that only valid and safe data was accepted.
+- Strong Password Policy: Enforced a strong password policy, requiring a minimum of 8 characters, including at least one special character, one number, and a combination of uppercase and lowercase letters.
+- Security Measures: Employed various security measures to safeguard user data and protect against potential threats.
+- Small Animations: Incorporated subtle animations throughout the tool to enhance the overall user experience and engagement.
 
 Although the 313X | TPCRM tool is no longer accessible, these features exemplify the commitment to delivering a robust and secure application. Please feel free to contact me for any further inquiries or if you require additional information.
 
