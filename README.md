@@ -12,8 +12,8 @@ I worked at 313x, a cybersecurity company specializing in the investigation and 
 - Duration: 1 year and 2 months
 
 ### Collaborators
-- Backend: @eduardokimmel
-- Frontend: @felipebetini
+- Backend: [@eduardokimmel](https://github.com/eduardokimmel)
+- Frontend: [@felipebetini](https://github.com/felipebetini)
 
 ### Company Overview
 - 313x specialized in malware analysis, incident response, pentests, and information security compliance.
