@@ -11,6 +11,10 @@ I worked at 313x, a cybersecurity company specializing in the investigation and 
 - Position: Front-end Developer and Cybersecurity Analyst
 - Duration: 1 year and 2 months
 
+### Collaborators
+- Backend: @eduardokimmel
+- Frontend: @felipebetini
+
 ### Company Overview
 - 313x specialized in malware analysis, incident response, pentests, and information security compliance.
 - Our team consisted of highly trained professionals with expertise in various areas, including:
